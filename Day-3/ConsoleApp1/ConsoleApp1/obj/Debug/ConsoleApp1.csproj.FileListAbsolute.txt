@@ -1,0 +1,7 @@
+E:\git\Wipro26-Practice\Day-3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\git\Wipro26-Practice\Day-3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\git\Wipro26-Practice\Day-3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\git\Wipro26-Practice\Day-3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\git\Wipro26-Practice\Day-3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\git\Wipro26-Practice\Day-3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\git\Wipro26-Practice\Day-3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
