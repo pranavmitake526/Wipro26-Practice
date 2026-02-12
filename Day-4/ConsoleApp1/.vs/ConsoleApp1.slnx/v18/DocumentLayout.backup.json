@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|e:\\git\\wipro26-practice\\day-4\\consoleapp1\\consoleapp1\\htex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\htex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|e:\\git\\wipro26-practice\\day-4\\consoleapp1\\consoleapp1\\queex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\queex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|e:\\git\\wipro26-practice\\day-4\\consoleapp1\\consoleapp1\\arraylist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\arraylist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|e:\\git\\wipro26-practice\\day-4\\consoleapp1\\consoleapp1\\stcex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\stcex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|e:\\git\\wipro26-practice\\day-4\\consoleapp1\\consoleapp1\\baseex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\baseex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|e:\\git\\wipro26-practice\\day-4\\consoleapp1\\consoleapp1\\abcoex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abcoex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|e:\\git\\wipro26-practice\\day-4\\consoleapp1\\consoleapp1\\basecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\basecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|e:\\git\\wipro26-practice\\day-4\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|e:\\git\\wipro26-practice\\day-4\\consoleapp1\\consoleapp1\\abcoex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2E0AE-64DF-4159-8577-E506B66BACBC}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abcoex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtEx1.cs",
+              "DocumentMoniker": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\HtEx1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\HtEx1.cs",
+              "ToolTip": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\HtEx1.cs",
+              "RelativeToolTip": "ConsoleApp1\\HtEx1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:53:56.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueEx.cs",
+              "DocumentMoniker": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\QueEx.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\QueEx.cs",
+              "ToolTip": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\QueEx.cs",
+              "RelativeToolTip": "ConsoleApp1\\QueEx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:51:03.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayList1.cs",
+              "DocumentMoniker": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\ArrayList1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ArrayList1.cs",
+              "ToolTip": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\ArrayList1.cs",
+              "RelativeToolTip": "ConsoleApp1\\ArrayList1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:47:38.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StcEx1.cs",
+              "DocumentMoniker": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\StcEx1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\StcEx1.cs",
+              "ToolTip": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\StcEx1.cs",
+              "RelativeToolTip": "ConsoleApp1\\StcEx1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:45:02.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEx.cs",
+              "DocumentMoniker": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\BaseEx.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BaseEx.cs",
+              "ToolTip": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\BaseEx.cs",
+              "RelativeToolTip": "ConsoleApp1\\BaseEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T08:47:45.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseCon.cs",
+              "DocumentMoniker": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\BaseCon.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BaseCon.cs",
+              "ToolTip": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\BaseCon.cs",
+              "RelativeToolTip": "ConsoleApp1\\BaseCon.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wCwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T08:44:17.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbCoEx2.cs",
+              "DocumentMoniker": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\AbCoEx2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AbCoEx2.cs",
+              "ToolTip": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\AbCoEx2.cs",
+              "RelativeToolTip": "ConsoleApp1\\AbCoEx2.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T08:41:15.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AbCoEx1.cs",
+              "DocumentMoniker": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\AbCoEx1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AbCoEx1.cs",
+              "ToolTip": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\AbCoEx1.cs",
+              "RelativeToolTip": "ConsoleApp1\\AbCoEx1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:31:25.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\git\\Wipro26-Practice\\Day-4\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:30:46.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
