@@ -1,0 +1,53 @@
+function type_validation(employee,age,salary,dept){
+        while (typeof(employee) != "string"){
+    employee = prompt("Enter valid name: ")
+    }
+            while (typeof(age) != "number"){
+    age = prompt("Enter valid age: ")
+    }
+            while (typeof(salary) != "number"){
+    salary = prompt("Enter valid salary: ")
+    }
+            while (typeof(dept) != "string"){
+    dept = prompt("Enter valid dept: ")
+    }
+    return{employee,age,salary,dept}
+}
+
+function age_check(a){
+    if (a>18){
+        return "Eligible for job interview"
+    }
+    else{
+        return "Not eligible for job interview"
+    }
+}
+
+function role_access(u){
+    if (u == "admin"){
+        return "Admin access granted."
+    }
+    else if (u == "hr"){
+        return "Hr access granted."
+    }
+    else if (u == "employee"){
+        return "Employee access granted."
+    }
+    else{
+        return "Invalid access"
+    }
+}
+
+employee = "Aryan Sharma";
+age = 21;
+salary = 35223;
+dept = "Dotnet";
+
+bonus = salary * 0.1;
+final_salary = salary+bonus;
+
+console.log(type_validation(employee,age,salary,dept))
+console.log(age_check(age))
+
+user = prompt("Enter the role \n1.Admin 2.Hr 3.Employee\n").toLowerCase();
+console.log(role_access(user))
