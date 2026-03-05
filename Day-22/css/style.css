@@ -1,0 +1,48 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f6f9;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #100f0f;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  background-color: #e94f0d;
+  padding: 10px 18px;
+  margin: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  background-color: #1aafd9;
+}
+
+#content {
+  max-width: 700px;
+  margin: auto;
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+}
